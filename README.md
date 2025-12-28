@@ -31,10 +31,6 @@ I am a dedicated Java Developer with a passion for building robust, scalable, an
 ### 📊 My GitHub Journey
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasadmagar1211&theme=radical&no-frame=true&column=4" alt="Trophies" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadmagar1211&theme=react-dark&hide_border=true" width="100%" />
 </p>
 ---
