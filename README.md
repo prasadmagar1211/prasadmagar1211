@@ -19,4 +19,3 @@ I thrive in collaborative environments and am always looking for opportunities t
 <img src="https://github-readme-stats.vercel.app/api?username=prasadmagar1211&show_icons=true&theme=radical" alt="Stats" height="180" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadmagar1211&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
-
