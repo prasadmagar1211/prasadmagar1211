@@ -43,6 +43,7 @@ I am a dedicated Java Developer with a passion for building robust, scalable, an
 ### 🎯 Fun Fact:
 - I believe code is like humor; if you have to explain it, it’s probably bad. 
 
+
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
