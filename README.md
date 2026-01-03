@@ -80,7 +80,7 @@ To solve the data consistency challenge, I use **Spring Data JPA** with **Synchr
 ---
 
 ### 🎯 Proverbial Code
-> "Code is like humor. When you have to explain it, it’s bad."
+> <H2> "Code is like humor. When you have to explain it, it’s bad." </H2>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" />
