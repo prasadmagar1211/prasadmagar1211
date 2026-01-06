@@ -13,13 +13,13 @@
 
 <H1> 💫 About Me: </H1> 
 
-<H4> I am a dedicated Java Developer with a passion for building robust, scalable, and high-performance backend systems. My core expertise lies in leveraging the Java ecosystem—specifically Spring Boot and Hibernate—to transform complex business requirements into seamless digital experiences. I specialize in designing service layers that prioritize modularity and ease of maintenance, ensuring that the backend can grow alongside the business.
+<H2> I am a dedicated Java Developer with a passion for building robust, scalable, and high-performance backend systems. My core expertise lies in leveraging the Java ecosystem—specifically Spring Boot and Hibernate—to transform complex business requirements into seamless digital experiences. I specialize in designing service layers that prioritize modularity and ease of maintenance, ensuring that the backend can grow alongside the business.
 
 Currently, I am focused on architecting secure applications, including an integrated E-commerce Web Application that bridges the gap between user-facing transactions and administrative oversight. A central challenge I am solving in this project is the real-time synchronization of data; I implement strict transactional boundaries to ensure that every order placed by a user is immediately and accurately reflected on the Admin Dashboard, maintaining a "single source of truth" across the entire platform.
 
 I believe that clean code and efficient database management are the backbones of any great software. To me, writing code is as much about readability for fellow developers as it is about execution for the machine. My technical toolkit includes working with RESTful APIs, MySQL, and ensuring system reliability through rigorous testing and performance tuning of Hibernate queries. Beyond writing code, I am committed to continuous learning, currently diving deeper into Microservices architecture and Containerization (Docker) to stay at the forefront of modern, cloud-native backend development. I am fascinated by how distributed systems handle state and am exploring ways to implement resilient API Gateways and Service Discovery.
 
-I thrive in collaborative environments and am always looking for opportunities to contribute to open-source projects or tackle new challenges that push my technical boundaries. I value the process of peer code reviews and technical brainstorming, as I believe the best solutions emerge from diverse perspectives. Let’s build something efficient, secure, and impactful together. </H4>
+I thrive in collaborative environments and am always looking for opportunities to contribute to open-source projects or tackle new challenges that push my technical boundaries. I value the process of peer code reviews and technical brainstorming, as I believe the best solutions emerge from diverse perspectives. Let’s build something efficient, secure, and impactful together. </H2>
 
 ---
 
@@ -62,7 +62,7 @@ I thrive in collaborative environments and am always looking for opportunities t
 ---
 
 ### 🏗️ Architectural Focus: Order Management System
-To ensure data integrity between the **User Side** and **Admin Panel**, I am utilizing a synchronized backend architecture. This ensures that when a user sees their order history, the admin view is updated instantly.
+<H2> To ensure data integrity between the **User Side** and **Admin Panel**, I am utilizing a synchronized backend architecture. This ensures that when a user sees their order history, the admin view is updated instantly. </H2>
 
 ---
 
@@ -72,10 +72,10 @@ To ensure data integrity between the **User Side** and **Admin Panel**, I am uti
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadmagar1211&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
----
+--- 
 
 ### 🏗️ Logic: User-Admin Order Synchronization
-To solve the data consistency challenge, I use **Spring Data JPA** with **Synchronized Transactional** methods to ensure the Admin Dashboard and User Order history remain identical in real-time.
+<H2> To solve the data consistency challenge, I use **Spring Data JPA** with **Synchronized Transactional** methods to ensure the Admin Dashboard and User Order history remain identical in real-time. </H2>
 
 ---
 
