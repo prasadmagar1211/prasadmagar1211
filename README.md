@@ -14,7 +14,7 @@
 <H1> 💫 About Me: </H1> 
 
 <H2> I am a dedicated Java Developer with a passion for building robust, scalable, and high-performance backend systems. My core expertise lies in leveraging the Java ecosystem—specifically Spring Boot and Hibernate—to transform complex business requirements into seamless digital experiences. I specialize in designing service layers that prioritize modularity and ease of maintenance, ensuring that the backend can grow alongside the business.
-
+  
 Currently, I am focused on architecting secure applications, including an integrated E-commerce Web Application that bridges the gap between user-facing transactions and administrative oversight. A central challenge I am solving in this project is the real-time synchronization of data; I implement strict transactional boundaries to ensure that every order placed by a user is immediately and accurately reflected on the Admin Dashboard, maintaining a "single source of truth" across the entire platform.
 
 I believe that clean code and efficient database management are the backbones of any great software. To me, writing code is as much about readability for fellow developers as it is about execution for the machine. My technical toolkit includes working with RESTful APIs, MySQL, and ensuring system reliability through rigorous testing and performance tuning of Hibernate queries. Beyond writing code, I am committed to continuous learning, currently diving deeper into Microservices architecture and Containerization (Docker) to stay at the forefront of modern, cloud-native backend development. I am fascinated by how distributed systems handle state and am exploring ways to implement resilient API Gateways and Service Discovery.
