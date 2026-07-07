@@ -1,15 +1,12 @@
 # ⚡ Hello, I'm Prasad Magar! 
 
-### Software Engineer | Java & Spring Boot Specialist
+### Software Engineer | Java & Spring Boot Specialist | AI Agent Explorer
 
 <p align="left">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&width=435&lines=Building+Scalable+Backend+Systems;Spring+Boot+%26+Hibernate+Expert;E-commerce+Solution+Architect;Always+Learning+Microservices" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&width=450&lines=Building+Scalable+Backend+Systems;Spring+Boot+%26+Cloud+Architecture;Exploring+AI+Agents+%26+Automation;Always+Learning+Distributed+Systems" alt="Typing SVG" />
 </p>
 
 ---
-
 
 <H1> 💫 About Me: </H1> 
 
@@ -17,28 +14,28 @@
   
 Currently, I am focused on architecting secure applications, including an integrated E-commerce Web Application that bridges the gap between user-facing transactions and administrative oversight. A central challenge I am solving in this project is the real-time synchronization of data; I implement strict transactional boundaries to ensure that every order placed by a user is immediately and accurately reflected on the Admin Dashboard, maintaining a "single source of truth" across the entire platform.
 
-I believe that clean code and efficient database management are the backbones of any great software. To me, writing code is as much about readability for fellow developers as it is about execution for the machine. My technical toolkit includes working with RESTful APIs, MySQL, and ensuring system reliability through rigorous testing and performance tuning of Hibernate queries. Beyond writing code, I am committed to continuous learning, currently diving deeper into Microservices architecture and Containerization (Docker) to stay at the forefront of modern, cloud-native backend development. I am fascinated by how distributed systems handle state and am exploring ways to implement resilient API Gateways and Service Discovery.
+Beyond traditional backend development, I am heavily invested in continuous learning and modern system design. I am currently diving deep into **Cloud Architecture (AWS)** and **Containerization (Docker)** to build cloud-native applications. Fascination with how distributed systems handle state has also led me to explore **AI Agents and Intelligent Automation**—specifically looking at how autonomous agents can interact with structured RESTful APIs, automate complex backend workflows, and optimize data processing pipelines.
 
 I thrive in collaborative environments and am always looking for opportunities to contribute to open-source projects or tackle new challenges that push my technical boundaries. I value the process of peer code reviews and technical brainstorming, as I believe the best solutions emerge from diverse perspectives. Let’s build something efficient, secure, and impactful together. </H2>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BACKEND+ARCHITECT;SPRING+BOOT+SPECIALIST;FULL-STACK+ENGINEER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BACKEND+ARCHITECT;SPRING+BOOT+SPECIALIST;AI+AGENT+EXPLORER" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💻 My Digital Toolbox
 
-### 🚀 Backend & Core Engineering
+### 🚀 Backend, Cloud & Intelligent Systems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo" />
   <img src="https://skillicons.dev/icons?i=hibernate" height="50" alt="hibernate logo" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
 </p>
 
 ### 🎨 Frontend & UI Design
@@ -63,6 +60,11 @@ I thrive in collaborative environments and am always looking for opportunities t
 
 ### 🏗️ Architectural Focus: Order Management System
 <H2> To ensure data integrity between the **User Side** and **Admin Panel**, I am utilizing a synchronized backend architecture. This ensures that when a user sees their order history, the admin view is updated instantly. </H2>
+
+---
+
+### 🤖 Current Exploration: AI Agents & Cloud
+<H2> Integrating large language models and autonomous agent workflows with robust Java/Spring Boot microservices, enabling intelligent backend automation and cloud-native scalability. </H2>
 
 ---
 
