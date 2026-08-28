@@ -1,89 +1,224 @@
-# ⚡ Hello, I'm Prasad Magar! 
+# ⚡ Hello, I'm Prasad Magar!
 
-### Software Engineer | Java & Spring Boot Specialist | AI Agent Explorer
+### Software Engineer | Java & Spring Boot | Python | Generative AI
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&width=450&lines=Building+Scalable+Backend+Systems;Spring+Boot+%26+Cloud+Architecture;Exploring+AI+Agents+%26+Automation;Always+Learning+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&width=600&lines=Java+%26+Spring+Boot+Backend+Development;Python+%26+FastAPI;Building+RAG+%26+LLM+Applications;Exploring+AI+Agents+%26+Automation" alt="Typing SVG" />
 </p>
 
 ---
 
-<H1> 💫 About Me: </H1> 
+# 💫 About Me
 
-<H2> I am a dedicated Java Developer with a passion for building robust, scalable, and high-performance backend systems. My core expertise lies in leveraging the Java ecosystem—specifically Spring Boot and Hibernate—to transform complex business requirements into seamless digital experiences. I specialize in designing service layers that prioritize modularity and ease of maintenance, ensuring that the backend can grow alongside the business.
-  
-Currently, I am focused on architecting secure applications, including an integrated E-commerce Web Application that bridges the gap between user-facing transactions and administrative oversight. A central challenge I am solving in this project is the real-time synchronization of data; I implement strict transactional boundaries to ensure that every order placed by a user is immediately and accurately reflected on the Admin Dashboard, maintaining a "single source of truth" across the entire platform.
+I'm a **Computer Science graduate and Software Engineering Intern** focused on building backend applications and practical AI-powered systems.
 
-Beyond traditional backend development, I am heavily invested in continuous learning and modern system design. I am currently diving deep into **Cloud Architecture (AWS)** and **Containerization (Docker)** to build cloud-native applications. Fascination with how distributed systems handle state has also led me to explore **AI Agents and Intelligent Automation**—specifically looking at how autonomous agents can interact with structured RESTful APIs, automate complex backend workflows, and optimize data processing pipelines.
+My core development stack includes **Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, REST APIs, Maven, Git, and Postman**. I enjoy designing clean backend architectures, building APIs, working with databases, debugging applications, and solving real-world software problems.
 
-I thrive in collaborative environments and am always looking for opportunities to contribute to open-source projects or tackle new challenges that push my technical boundaries. I value the process of peer code reviews and technical brainstorming, as I believe the best solutions emerge from diverse perspectives. Let’s build something efficient, secure, and impactful together. </H2>
+Alongside Java backend development, I have been expanding into **Python and Applied Generative AI**. I work with technologies and concepts including **FastAPI, LLM APIs, embeddings, vector databases, Retrieval-Augmented Generation (RAG), LangChain, LangGraph, Qdrant, and AI agent workflows**.
+
+I'm particularly interested in connecting **Java/Spring Boot systems with Python-based AI services**, allowing traditional backend applications to use LLMs, semantic search, RAG pipelines, and intelligent automation.
+
+Currently, I'm strengthening my foundations in **NumPy, Pandas, Machine Learning, Docker, cloud technologies, RAG architectures, and Agentic AI** while continuing to improve my Java backend and problem-solving skills.
+
+My goal is to grow as a software engineer who can work across **backend engineering, APIs, databases, cloud-native applications, and Applied AI systems**.
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BACKEND+ARCHITECT;SPRING+BOOT+SPECIALIST;AI+AGENT+EXPLORER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=JAVA+BACKEND+DEVELOPER;PYTHON+%26+FASTAPI;GENERATIVE+AI+%26+RAG;AI+AGENTS+%26+AUTOMATION" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 My Digital Toolbox
+## 💻 Technical Skills
 
-### 🚀 Backend, Cloud & Intelligent Systems
+### ☕ Backend Development
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="50" alt="hibernate logo" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="50" alt="Hibernate" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=maven" height="50" alt="Maven" />
 </p>
 
-### 🎨 Frontend & UI Design
+**Java • Spring Boot • Spring MVC • Spring Security • Spring Data JPA • Hibernate • JDBC • REST APIs • MySQL • Maven**
+
+---
+
+### 🤖 Generative AI & Agentic AI
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="js logo" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI" />
 </p>
 
-### 🛠️ Tools & Version Control
+**Python • FastAPI • LLM APIs • Prompt Engineering • Embeddings • Vector Search • RAG • Advanced RAG Concepts • AI Agents • Tool Calling • LangChain • LangGraph • Qdrant • Sentence Transformers**
+
+Currently exploring:
+
+**Enterprise RAG • Agentic Workflows • AI Automation • LLM Integration with Java Microservices**
+
+---
+
+### 📊 Python & Data
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo" />
-  <img src="https://skillicons.dev/icons?i=maven" height="50" alt="maven logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
 </p>
- 
----
 
-### 🏗️ Architectural Focus: Order Management System
-<H2> To ensure data integrity between the **User Side** and **Admin Panel**, I am utilizing a synchronized backend architecture. This ensures that when a user sees their order history, the admin view is updated instantly. </H2>
+**Python • NumPy • Pandas • JSON • Data Processing • Exception Handling • OOP • Type Hints**
 
----
+Currently learning:
 
-### 🤖 Current Exploration: AI Agents & Cloud
-<H2> Integrating large language models and autonomous agent workflows with robust Java/Spring Boot microservices, enabling intelligent backend automation and cloud-native scalability. </H2>
+**Scikit-learn • Machine Learning Fundamentals**
 
 ---
 
-### 📊 Engineering Activity 
+### ☁️ Cloud, Containers & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
+</p>
+
+**Docker • REST API Development • API Integration • Postman • JSON • Microservice Integration**
+
+Exploring **AWS and cloud-native application architecture**.
+
+---
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="50" alt="Frontend Technologies" />
+</p>
+
+**HTML5 • CSS3 • JavaScript • Bootstrap • Thymeleaf • React**
+
+---
+
+### 🛠️ Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,maven,postman" height="50" alt="Development Tools" />
+</p>
+
+**Git • GitHub • IntelliJ IDEA • Eclipse/STS • VS Code • Maven • Postman**
+
+---
+
+# 🚀 What I'm Building
+
+### 🛒 E-Commerce Backend System
+
+Building a Spring Boot based e-commerce application using:
+
+`Java` `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `MySQL` `REST APIs`
+
+The system handles products, users, authentication, orders, and administrative operations while maintaining consistent transactional data between user and admin workflows.
+
+---
+
+### 🧠 Retrieval-Augmented Generation (RAG)
+
+Building document-based AI systems using:
+
+`Python` `FastAPI` `Qdrant` `Embeddings` `Vector Search` `LLMs` `RAG`
+
+Documents are processed into chunks, converted into embeddings, stored in a vector database, retrieved semantically, and supplied to an LLM to generate context-aware responses.
+
+---
+
+### 🤖 Agentic AI Systems
+
+Exploring AI applications where LLM-powered agents can:
+
+* Understand user requests
+* Decide which tools to use
+* Call external REST APIs
+* Retrieve contextual information
+* Process tool responses
+* Generate final actions or answers
+
+Working with **LangGraph, LangChain, FastAPI, REST APIs, and LLM integrations** to understand practical agent workflows.
+
+---
+
+### 🔗 Java + AI Integration
+
+One of my main areas of exploration is combining:
+
+**Java/Spring Boot → Python/FastAPI → AI/RAG Services**
+
+This architecture allows traditional enterprise backend systems to communicate with specialized AI microservices for:
+
+**Semantic Search • RAG • LLM Processing • AI Agents • Intelligent Automation**
+
+---
+
+# 🧠 Currently Learning
+
+```text
+Backend Engineering
+├── Java
+├── Spring Boot
+├── Spring Security
+├── REST APIs
+└── Database Design
+
+Python & Data
+├── Python
+├── NumPy
+├── Pandas
+└── Scikit-learn
+
+Generative AI
+├── LLM Fundamentals
+├── Embeddings
+├── Vector Databases
+├── RAG
+├── Advanced RAG
+├── Tool Calling
+└── AI Agents
+
+Engineering
+├── FastAPI
+├── Docker
+├── Git/GitHub
+├── Cloud Fundamentals
+└── System Design
+```
+
+---
+
+# 📊 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadmagar1211&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadmagar1211&theme=tokyonight&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
-
---- 
-
-### 🏗️ Logic: User-Admin Order Synchronization
-<H2> To solve the data consistency challenge, I use **Spring Data JPA** with **Synchronized Transactional** methods to ensure the Admin Dashboard and User Order history remain identical in real-time. </H2>
 
 ---
 
-### 🎯 Proverbial Code
-> <H2> "Code is like humor. When you have to explain it, it’s bad." </H2>
+# 🎯 Engineering Interests
+
+`Backend Engineering` • `Java` • `Spring Boot` • `Python` • `Generative AI` • `RAG` • `AI Agents` • `REST APIs` • `Vector Databases` • `Docker` • `Cloud`
+
+---
+
+# 🤝 Open to Opportunities
+
+I'm interested in entry-level opportunities involving:
+
+**Software Engineering • Java Backend Development • Python Development • Application Development • Generative AI • Applied AI • AI/Backend Engineering**
+
+I'm always interested in learning, collaborating, and building practical software systems.
+
+---
+
+> **"First make it work, then make it right, then make it fast."**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" alt="Footer" />
 </p>
