@@ -209,14 +209,6 @@ My goal is not only to understand these technologies individually, but to learn 
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadmagar1211&theme=github-compact&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ## Professional Interests
 
 `Backend Engineering` • `Java` • `Spring Boot` • `Python` • `REST APIs` • `Generative AI` • `RAG` • `AI Agents` • `Vector Search` • `Docker` • `Cloud`
