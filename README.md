@@ -1,172 +1,179 @@
-# ⚡ Hello, I'm Prasad Magar!
+# Prasad Magar
 
 ### Software Engineer | Java & Spring Boot | Python | Generative AI
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED8B00&width=600&lines=Java+%26+Spring+Boot+Backend+Development;Python+%26+FastAPI;Building+RAG+%26+LLM+Applications;Exploring+AI+Agents+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=650&lines=Backend+Engineering+%7C+Java+%26+Spring+Boot;Python+%7C+FastAPI+%7C+REST+APIs;Generative+AI+%7C+RAG+%7C+Vector+Search;AI+Agents+%7C+LLM+Applications" alt="Typing SVG" />
 </p>
 
 ---
 
-# 💫 About Me
+## About Me
 
-I'm a **Computer Science graduate and Software Engineering Intern** focused on building backend applications and practical AI-powered systems.
+I am a **Computer Science graduate and Software Engineering Intern** with hands-on experience in backend development, REST APIs, databases, application debugging, and applied Generative AI.
 
-My core development stack includes **Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, REST APIs, Maven, Git, and Postman**. I enjoy designing clean backend architectures, building APIs, working with databases, debugging applications, and solving real-world software problems.
+My primary engineering stack is **Java, Spring Boot, Spring Data JPA, Hibernate, MySQL, Python, and FastAPI**. I focus on developing maintainable backend services, designing RESTful APIs, integrating databases, troubleshooting application behavior, and building reliable application workflows.
 
-Alongside Java backend development, I have been expanding into **Python and Applied Generative AI**. I work with technologies and concepts including **FastAPI, LLM APIs, embeddings, vector databases, Retrieval-Augmented Generation (RAG), LangChain, LangGraph, Qdrant, and AI agent workflows**.
+Alongside backend engineering, I am building practical **Generative AI and RAG systems** using **LLMs, embeddings, vector search, Qdrant, LangChain, and LangGraph**. My current work and learning focus on connecting AI capabilities with conventional backend systems through APIs and service-oriented architectures.
 
-I'm particularly interested in connecting **Java/Spring Boot systems with Python-based AI services**, allowing traditional backend applications to use LLMs, semantic search, RAG pipelines, and intelligent automation.
-
-Currently, I'm strengthening my foundations in **NumPy, Pandas, Machine Learning, Docker, cloud technologies, RAG architectures, and Agentic AI** while continuing to improve my Java backend and problem-solving skills.
-
-My goal is to grow as a software engineer who can work across **backend engineering, APIs, databases, cloud-native applications, and Applied AI systems**.
+I am particularly interested in the intersection of **Backend Engineering and Applied AI** — building systems where Java/Spring Boot applications interact with Python-based AI services for retrieval, reasoning, automation, and intelligent workflows.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=JAVA+BACKEND+DEVELOPER;PYTHON+%26+FASTAPI;GENERATIVE+AI+%26+RAG;AI+AGENTS+%26+AUTOMATION" alt="Typing SVG" />
+## Technical Skills
+
+### Backend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven" height="45" alt="Backend Technologies" />
 </p>
 
----
+**Languages:** Java, Python, SQL
+**Backend:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, JDBC, FastAPI
+**APIs:** REST APIs, API Integration, JSON, Exception Handling
+**Databases:** MySQL, SQL, Database Design Fundamentals
 
-## 💻 Technical Skills
+### Generative AI & Intelligent Systems
 
-### ☕ Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="50" alt="Hibernate" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=maven" height="50" alt="Maven" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi" height="45" alt="AI Development Technologies" />
 </p>
 
-**Java • Spring Boot • Spring MVC • Spring Security • Spring Data JPA • Hibernate • JDBC • REST APIs • MySQL • Maven**
+**Generative AI:** LLM Applications, Prompt Engineering, RAG
+**Retrieval:** Embeddings, Semantic Search, Vector Search, Document Chunking
+**Vector Database:** Qdrant
+**AI Frameworks:** LangChain, LangGraph
+**Agentic AI:** Tool Calling, Agent Workflows, API-based AI Agents
+**Models & APIs:** LLM APIs, Sentence Transformers
 
----
+### Data & Machine Learning
 
-### 🤖 Generative AI & Agentic AI
+**Python:** NumPy, Pandas
+**Learning:** Scikit-learn, Machine Learning Fundamentals
+**Concepts:** Data Processing, Feature Preparation, Model Evaluation Fundamentals
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI" />
+### Development & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea,eclipse" height="45" alt="Development Tools" />
 </p>
 
-**Python • FastAPI • LLM APIs • Prompt Engineering • Embeddings • Vector Search • RAG • Advanced RAG Concepts • AI Agents • Tool Calling • LangChain • LangGraph • Qdrant • Sentence Transformers**
+**Tools:** Git, GitHub, Postman, Maven
+**Development:** IntelliJ IDEA, Eclipse/STS, VS Code
+**DevOps:** Docker
+**Cloud:** AWS Fundamentals — currently expanding cloud knowledge
 
-Currently exploring:
+### Frontend
 
-**Enterprise RAG • Agentic Workflows • AI Automation • LLM Integration with Java Microservices**
-
----
-
-### 📊 Python & Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="45" alt="Frontend Technologies" />
 </p>
 
-**Python • NumPy • Pandas • JSON • Data Processing • Exception Handling • OOP • Type Hints**
-
-Currently learning:
-
-**Scikit-learn • Machine Learning Fundamentals**
+**HTML5, CSS3, JavaScript, Bootstrap, Thymeleaf, React**
 
 ---
 
-### ☁️ Cloud, Containers & APIs
+## Selected Projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
-</p>
+### Enterprise RAG System
 
-**Docker • REST API Development • API Integration • Postman • JSON • Microservice Integration**
+**Python • FastAPI • Qdrant • Embeddings • Vector Search • LLMs**
 
-Exploring **AWS and cloud-native application architecture**.
+Developing a document retrieval architecture that processes enterprise content, generates embeddings, stores contextual metadata, performs semantic retrieval, and provides relevant context to LLMs for grounded response generation.
 
----
+Key areas:
 
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="50" alt="Frontend Technologies" />
-</p>
-
-**HTML5 • CSS3 • JavaScript • Bootstrap • Thymeleaf • React**
+* Document ingestion and chunking
+* Metadata-aware retrieval
+* Embedding generation
+* Vector search with Qdrant
+* Context retrieval and LLM integration
+* REST API based access through FastAPI
 
 ---
 
-### 🛠️ Development Tools
+### Agentic Weather Intelligence System
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,maven,postman" height="50" alt="Development Tools" />
-</p>
+**Python • FastAPI • LangGraph • LLM • REST APIs**
 
-**Git • GitHub • IntelliJ IDEA • Eclipse/STS • VS Code • Maven • Postman**
+Built an agent-based workflow that coordinates planning, external API interaction, data processing, and response generation.
 
----
+```text
+User Request
+     ↓
+Planner
+     ↓
+Tool / API Execution
+     ↓
+Data Processing
+     ↓
+LLM Reasoning
+     ↓
+Final Response
+```
 
-# 🚀 What I'm Building
-
-### 🛒 E-Commerce Backend System
-
-Building a Spring Boot based e-commerce application using:
-
-`Java` `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `MySQL` `REST APIs`
-
-The system handles products, users, authentication, orders, and administrative operations while maintaining consistent transactional data between user and admin workflows.
-
----
-
-### 🧠 Retrieval-Augmented Generation (RAG)
-
-Building document-based AI systems using:
-
-`Python` `FastAPI` `Qdrant` `Embeddings` `Vector Search` `LLMs` `RAG`
-
-Documents are processed into chunks, converted into embeddings, stored in a vector database, retrieved semantically, and supplied to an LLM to generate context-aware responses.
+The project demonstrates practical use of **tool calling, workflow orchestration, external APIs, and LLM-powered decision flows**.
 
 ---
 
-### 🤖 Agentic AI Systems
+### RapidStore — E-Commerce Application
 
-Exploring AI applications where LLM-powered agents can:
+**Java • Spring Boot • Spring Data JPA • Hibernate • MySQL • Spring Security**
 
-* Understand user requests
-* Decide which tools to use
-* Call external REST APIs
-* Retrieve contextual information
-* Process tool responses
-* Generate final actions or answers
+Developed a backend-driven e-commerce application implementing product, cart, order, authentication, and administrative workflows.
 
-Working with **LangGraph, LangChain, FastAPI, REST APIs, and LLM integrations** to understand practical agent workflows.
+Architecture:
 
----
+```text
+Client
+   ↓
+Controller
+   ↓
+Service
+   ↓
+Repository
+   ↓
+MySQL
+```
 
-### 🔗 Java + AI Integration
-
-One of my main areas of exploration is combining:
-
-**Java/Spring Boot → Python/FastAPI → AI/RAG Services**
-
-This architecture allows traditional enterprise backend systems to communicate with specialized AI microservices for:
-
-**Semantic Search • RAG • LLM Processing • AI Agents • Intelligent Automation**
+Implemented RESTful services, persistence through JPA/Hibernate, authentication and authorization with Spring Security, and transactional business logic.
 
 ---
 
-# 🧠 Currently Learning
+### AI-Powered Prediction Application
+
+**Spring Boot • FastAPI • Python • Scikit-learn • Pandas • NumPy**
+
+Developed a full-stack architecture where a **Java/Spring Boot backend communicates with a Python/FastAPI machine-learning service**.
+
+```text
+Frontend
+    ↓
+Spring Boot
+    ↓
+REST API
+    ↓
+FastAPI
+    ↓
+ML Model
+```
+
+This project demonstrates integration between traditional Java backend systems and Python-based AI/ML services.
+
+---
+
+## Engineering Focus
+
+My current technical development is centered around four areas:
 
 ```text
 Backend Engineering
 ├── Java
 ├── Spring Boot
-├── Spring Security
 ├── REST APIs
-└── Database Design
+├── Spring Security
+├── JPA / Hibernate
+└── SQL
 
 Python & Data
 ├── Python
@@ -174,51 +181,54 @@ Python & Data
 ├── Pandas
 └── Scikit-learn
 
-Generative AI
-├── LLM Fundamentals
+Applied Generative AI
+├── LLM Applications
 ├── Embeddings
 ├── Vector Databases
 ├── RAG
-├── Advanced RAG
 ├── Tool Calling
 └── AI Agents
 
-Engineering
+Engineering & Deployment
 ├── FastAPI
 ├── Docker
-├── Git/GitHub
+├── Git / GitHub
 ├── Cloud Fundamentals
 └── System Design
 ```
 
 ---
 
-# 📊 Engineering Activity
+## Current Learning
+
+I am currently strengthening my knowledge of:
+
+**Machine Learning Fundamentals • Scikit-learn • Advanced RAG • Agentic AI • Docker • Cloud Architecture • System Design**
+
+My goal is not only to understand these technologies individually, but to learn how they fit together when building production-oriented software systems.
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadmagar1211&theme=tokyonight&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadmagar1211&theme=github-compact&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-# 🎯 Engineering Interests
+## Professional Interests
 
-`Backend Engineering` • `Java` • `Spring Boot` • `Python` • `Generative AI` • `RAG` • `AI Agents` • `REST APIs` • `Vector Databases` • `Docker` • `Cloud`
-
----
-
-# 🤝 Open to Opportunities
-
-I'm interested in entry-level opportunities involving:
-
-**Software Engineering • Java Backend Development • Python Development • Application Development • Generative AI • Applied AI • AI/Backend Engineering**
-
-I'm always interested in learning, collaborating, and building practical software systems.
+`Backend Engineering` • `Java` • `Spring Boot` • `Python` • `REST APIs` • `Generative AI` • `RAG` • `AI Agents` • `Vector Search` • `Docker` • `Cloud`
 
 ---
 
-> **"First make it work, then make it right, then make it fast."**
+## Career Focus
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" alt="Footer" />
-</p>
+I am open to entry-level opportunities in **Software Engineering, Backend Development, Java Development, Python Development, Application Engineering, and Applied AI / Generative AI Engineering**.
+
+I am particularly interested in engineering teams working on **backend platforms, APIs, AI-enabled applications, enterprise software, and intelligent automation**.
+
+---
+
+### Build reliable software. Learn continuously. Solve meaningful problems.
